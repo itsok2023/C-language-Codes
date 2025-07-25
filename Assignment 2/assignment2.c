@@ -1,4 +1,4 @@
-// Convert Celsius to Farhenite
+// Convert Celsius to Fahrenheit
 //          Formula of Conversion :-
 //                                              Farhenite = (9/5 * cel) + 32
 
@@ -14,7 +14,7 @@ int main()
 
     farh = 9.0/5.0 * cel + 32;
 
-    printf("Temperature in Farhenite is = %f F", farh);
+    printf("Temperature in Fahrenheit is = %f F", farh);
 
     return 0;
 }
