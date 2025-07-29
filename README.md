@@ -22,4 +22,14 @@ Collection of C assignment programs covering various problems for practice and r
 ### Assignment no 6:
 6️⃣ Small Alphabet to Capital Alphabet Converter
 
+### Assignment no 7:
+7️⃣ Less of Two Numbers
 
+### Assignment no 8:
+8️⃣ Even or Odd Checker
+
+### Assignment no 9:
+9️⃣ Percentage Calculator and Pass/Fail Checker
+
+### Assignment no 10:
+🔟 Palindrome Checker (3-Digit)
