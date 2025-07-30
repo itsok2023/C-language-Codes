@@ -33,3 +33,9 @@ Collection of C assignment programs covering various problems for practice and r
 
 ### Assignment no 10:
 🔟 Palindrome Checker (3-Digit)
+
+### Assignment no 11:
+1️⃣1️⃣ Lowercase to Uppercase Alphabet Converter 
+
+### Assignment no 12:
+1️⃣2️⃣ Leap Year Checker
