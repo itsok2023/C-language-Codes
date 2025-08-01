@@ -72,3 +72,6 @@ Collection of C assignment programs covering various problems for practice and r
 1️⃣7️⃣ Opposite Case Converter  
 📄 [View Code](./Assignment%2017/assignment17.c)
 
+### Assignment no 18:
+1️⃣8️⃣ Student Result with Fail Check & Grading  
+📄 [View Code](./Assignment%2018/assignment18.c)
