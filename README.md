@@ -67,3 +67,8 @@ Collection of C assignment programs covering various problems for practice and r
 ### Assignment no 16:
 1️⃣6️⃣ Character Category Identifier  
 [View Code](./Assignment%2016/assignment16.c)
+
+### Assignment no 17:
+1️⃣7️⃣ Opposite Case Converter  
+[View Code](./Assignment%2017/assignment17.c)
+
