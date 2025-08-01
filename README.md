@@ -55,3 +55,11 @@ Collection of C assignment programs covering various problems for practice and r
 ### Assignment no 13:
 1️⃣3️⃣ Greatest of Three Numbers  
 [View Code](./Assignment%2013/assignment13.c)
+
+### Assignment no 14:
+1️⃣4️⃣ Total Price Calculator with Discount
+[View Code](./Assignment%2014/assignment14.c)
+
+### Assignment no 15:
+1️⃣5️⃣ Greatest of Four Numbers
+[View Code](./Asssignment%2015/assignment15.c)
