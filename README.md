@@ -62,4 +62,8 @@ Collection of C assignment programs covering various problems for practice and r
 
 ### Assignment no 15:
 1️⃣5️⃣ Greatest of Four Numbers  
-[View Code](./Asssignment%2015/assignment15.c)
+[View Code](./Assignment%2015/assignment15.c)
+
+### Assignment no 16:
+1️⃣6️⃣ Character Category Identifier  
+[View Code](./Assignment%2016/assignment16.c)
