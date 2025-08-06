@@ -11,12 +11,20 @@ int main()
 
     mult = 1;
 
-    for(i=1; i<=no; i++)
+    if(no>0)
     {
-        mult = mult * i;
-    }
 
-    printf("Factorial of %d is = %d", no, mult);
+        for(i=1; i<=no; i++)
+        {
+            mult = mult * i;
+        }
+
+        printf("Factorial of %d is = %d", no, mult);
+    }
+    else
+    {
+        printf("Factorial is = 1");
+    }
 
     return 0;
 }
