@@ -10,16 +10,24 @@ int main()
     printf("Enter any Small or Capital Character : ");
     scanf("%c",&ch);
 
-    if((ch>='a' && ch<='z') || (ch>='A' && ch<='Z')) {
-        if(ch>='a' && ch<='z'){
+   
+        if(ch>='a' && ch<='z')
+        {
             printf("Uppercase is %c",ch-32);
         }
-        else{
-            printf("Lowercase is %c",ch+32);
+        else
+        {
+            if((ch>='A' && ch<='Z'))
+            {
+                printf("Lowercase is %c",ch+32);
+            }
+            else
+            {
+                printf("Enter a valid Alphabet Character");
+            }
+            
         }
-    }
-    else{
-        printf("Enter a valid Alphabet Character");
-    }
+    
+    
     return 0;
 }

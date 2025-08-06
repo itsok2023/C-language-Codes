@@ -75,3 +75,20 @@ Collection of C assignment programs covering various problems for practice and r
 ### Assignment no 18:
 1️⃣8️⃣ Student Result with Fail Check & Grading  
 📄 [View Code](./Assignment%2018/assignment18.c)
+
+### Assignment no 19:
+1️⃣9️⃣ Print Numbers from 1 to N  
+📄 [View Code](./Assignment%2019/assignment19.c)
+
+### Assignment no 20:
+2️⃣0️⃣ Multiplication Table Generator  
+📄 [View Code](./Assignment%2020/assignment20.c)
+
+### Assignment no 21:
+2️⃣1️⃣ Sum from 1 to N  
+📄 [View Code](./Assignment%2021/assignment21.c)
+
+### Assignment no 22:
+2️⃣2️⃣ Factorial of a Number  
+📄 [View Code](./Assignment%2022/assignment22.c)
+

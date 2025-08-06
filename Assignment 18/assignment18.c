@@ -24,19 +24,28 @@ int main()
             printf("Fail in PYTHON [Marks - %.2f]",python);
         } 
     }
-    else{
+    else
+    {
         printf("\nCongratulations!!! You are PASS\n");
         total = (java + dotnet + python) * 100/300;
-         printf("Total Percentage: %.2f%%\n", total);
-        if(total>=65){
+        printf("Total Percentage: %.2f%%\n", total);
+        
+        if(total>=65)
+        {
             printf("Grade: A Grade");
         }
-        if(total<65 && total>=60){
-            printf("Grade: B Grade");
+        else
+        {
+            if(total<65 && total>=60)
+            {
+                printf("Grade: B Grade");
+            }
+            else
+            {
+                printf("Grade: C Grade");
+            }
         }
-        if(total<60 && total>35){
-            printf("Grade: C Grade");
-        }
+        
     }
 
     return 0;
