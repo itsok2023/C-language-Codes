@@ -92,3 +92,16 @@ Collection of C assignment programs covering various problems for practice and r
 2️⃣2️⃣ Factorial of a Number  
 📄 [View Code](./Assignment%2022/assignment22.c)
 
+### Assignment no 23:
+2️⃣3️⃣ Sum of Digits of a Number  
+📄 [View Code](./Assignment%2023/assignment23.c)
+
+
+### Assignment no 24:
+2️⃣4️⃣ Palindrome Number Checker  
+📄 [View Code](./Assignment%2024/assignment24.c)
+
+### Assignment no 25:
+2️⃣5️⃣ Prime Number Checker  
+📄 [View Code](./Assignment%2025/assignment25.c)
+
