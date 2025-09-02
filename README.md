@@ -105,3 +105,19 @@ Collection of C assignment programs covering various problems for practice and r
 2️⃣5️⃣ Prime Number Checker  
 📄 [View Code](./Assignment%2025/assignment25.c)
 
+### Assignment no 26:
+2️⃣6️⃣ Absolute Value Calculator (Ternary Operator)  
+📄 [View Code](./Assignment%2026/assignment26.c)
+
+### Assignment no 27:
+2️⃣7️⃣ Month Calculator (Switch-Case)   
+📄 [View Code](./Assignment%2027/assignment27.c)
+
+### Assignment no 28:
+2️⃣8️⃣ Sum of Odd Numbers (1 to N)   
+📄 [View Code](./Assignment%2028/assignment28.c)
+
+### Assignment no 29:
+2️⃣9️⃣    
+📄 [View Code]()
+  
