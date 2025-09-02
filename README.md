@@ -118,6 +118,30 @@ Collection of C assignment programs covering various problems for practice and r
 📄 [View Code](./Assignment%2028/assignment28.c)
 
 ### Assignment no 29:
-2️⃣9️⃣    
+2️⃣9️⃣ LCM Calculator   
+📄 [View Code](./Assignment%2029/assignment29.c)
+
+### Assignment no 30:
+3️⃣0️⃣ GCD Calculator   
+📄 [View Code](./Assignment%2030/assignment30.c)
+
+### Assignment no 31:
+3️⃣1️⃣ Fibonacci Series   
+📄 [View Code](./Assignment%2031/assignment31.c)
+
+### Assignment no 32:
+3️⃣2️⃣    
+📄 [View Code]()
+
+### Assignment no 33:
+3️⃣3️⃣    
+📄 [View Code]()
+
+### Assignment no 34:
+3️⃣4️⃣    
+📄 [View Code]()
+
+### Assignment no 35:
+3️⃣5️⃣    
 📄 [View Code]()
   
