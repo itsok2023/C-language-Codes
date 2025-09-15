@@ -130,18 +130,34 @@ Collection of C assignment programs covering various problems for practice and r
 📄 [View Code](./Assignment%2031/assignment31.c)
 
 ### Assignment no 32:
-3️⃣2️⃣    
-📄 [View Code]()
+3️⃣2️⃣ Armstrong Number Checker     
+📄 [View Code](./Assignment%2032/assignment32.c)
 
 ### Assignment no 33:
-3️⃣3️⃣    
-📄 [View Code]()
+3️⃣3️⃣ Plaindrome Checker   
+📄 [View Code](./Assignment%2033/assignment33.c)
 
 ### Assignment no 34:
-3️⃣4️⃣    
-📄 [View Code]()
+3️⃣4️⃣ Right Half Pyramid   
+📄 [View Code](./Assignment%2034/assignment34.c)
 
 ### Assignment no 35:
-3️⃣5️⃣    
+3️⃣5️⃣ Reverse Right Half Pyramid   
+📄 [View Code](./Assignment%2035/assignment35.c)
+
+### Assignment no 36:
+3️⃣6️⃣ Left Half Pyramid   
+📄 [View Code](./Assignment%2036/assignment36.c)
+
+### Assignment no 37:
+3️⃣7️⃣    
+📄 [View Code]()
+
+### Assignment no 38:
+3️⃣8️⃣    
+📄 [View Code]()
+
+### Assignment no 39:
+3️⃣9️⃣    
 📄 [View Code]()
   
