@@ -150,14 +150,21 @@ Collection of C assignment programs covering various problems for practice and r
 📄 [View Code](./Assignment%2036/assignment36.c)
 
 ### Assignment no 37:
-3️⃣7️⃣    
-📄 [View Code]()
+3️⃣7️⃣ Fibonacci Series Using Function   
+📄 [View Code](./Assignment%2037/assignment37.c)
 
 ### Assignment no 38:
-3️⃣8️⃣    
-📄 [View Code]()
+3️⃣8️⃣ Power of Number using Function  
+📄 [View Code](./Assignment%2038/assignment38.c)
 
 ### Assignment no 39:
-3️⃣9️⃣    
-📄 [View Code]()
-  
+3️⃣9️⃣ Printing Table using Function   
+📄 [View Code](./Assignment%2039/assignment39.c)
+
+### Assignment no 40:
+4️⃣0️⃣ Prime Number using Function  
+📄 [View Code](./Assignment%2040/assignment40.c) 
+
+### Assignment no 41:
+4️⃣1️⃣ Palindrome using Function  
+📄 [View Code](./Assignment%2041/assignment41.c) 
