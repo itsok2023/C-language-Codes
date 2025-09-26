@@ -193,3 +193,14 @@ Collection of C assignment programs covering various problems for practice and r
 4️⃣7️⃣ Reverse an Array Using Function   
 📄 [View Code](./Assignment%2047/assignment47.c)
 
+### Assignment no 48:
+4️⃣8️⃣ Addition of Numbers in Array  
+📄 [View Code](./Assignment%2048/assignment48.c)
+
+### Assignment no 49:
+4️⃣9️⃣ Linear Search in Array  
+📄 [View Code](./Assignment%2049/assignment49.c)
+
+### Assignment no 50:
+5️⃣0️⃣ Reverse an Array  
+📄 [View Code](./Assignment%20450/assignment50.c)
