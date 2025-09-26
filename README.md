@@ -168,3 +168,28 @@ Collection of C assignment programs covering various problems for practice and r
 ### Assignment no 41:
 4️⃣1️⃣ Palindrome using Function  
 📄 [View Code](./Assignment%2041/assignment41.c) 
+
+### Assignment no 42:
+4️⃣2️⃣ Factorial using Recursion  
+📄 [View Code](./Assignment%2042/assignment42.c) 
+
+### Assignment no 43:
+4️⃣3️⃣ Factorial Series Summation 1/1! + 1/2! + 1/3! + ... + 1/n!  
+📄 [View Code](./Assignment%2043/assignment43.c) 
+
+### Assignment no 44:
+4️⃣4️⃣ Alternating Factorial Series x/1! - x/2! + x/3! - x/4! + ... ± x/n!   
+📄 [View Code](./Assignment%2044/assignment44.c)
+
+### Assignment no 45:
+4️⃣5️⃣ Alternating Factorial Series x^1 / 1! + x^2 /2! + ... + x^n / n!   
+📄 [View Code](./Assignment%2045/assignment45.c)
+
+### Assignment no 46:
+4️⃣6️⃣ Alternating Factorial Series x^1 / 1! + x^2 /2! + ... + x^n / n!   
+📄 [View Code](./Assignment%2046/assignment46.c)
+
+### Assignment no 47:
+4️⃣7️⃣ Alternating Factorial Series x^1 / 1! + x^2 /2! + ... + x^n / n!   
+📄 [View Code](./Assignment%2047/assignment47.c)
+
