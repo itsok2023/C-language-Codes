@@ -182,14 +182,14 @@ Collection of C assignment programs covering various problems for practice and r
 📄 [View Code](./Assignment%2044/assignment44.c)
 
 ### Assignment no 45:
-4️⃣5️⃣ Alternating Factorial Series x^1 / 1! + x^2 /2! + ... + x^n / n!   
+4️⃣5️⃣ Exponential Series x^1 / 1! + x^2 /2! + ... + x^n / n!   
 📄 [View Code](./Assignment%2045/assignment45.c)
 
 ### Assignment no 46:
-4️⃣6️⃣ Alternating Factorial Series x^1 / 1! + x^2 /2! + ... + x^n / n!   
+4️⃣6️⃣ Add Two Arrays Using Functions   
 📄 [View Code](./Assignment%2046/assignment46.c)
 
 ### Assignment no 47:
-4️⃣7️⃣ Alternating Factorial Series x^1 / 1! + x^2 /2! + ... + x^n / n!   
+4️⃣7️⃣ Reverse an Array Using Function   
 📄 [View Code](./Assignment%2047/assignment47.c)
 
