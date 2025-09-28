@@ -204,3 +204,39 @@ Collection of C assignment programs covering various problems for practice and r
 ### Assignment no 50:
 5️⃣0️⃣ Reverse an Array  
 📄 [View Code](./Assignment%20450/assignment50.c)
+
+### Assignment no 51:
+5️⃣1️⃣ Greet Function (Hello, World!)  
+📄 [View Code](./Assignment%2051/assignment51.c)
+
+### Assignment no 52:
+5️⃣2️⃣ Sum of Four Numbers Using Function  
+📄 [View Code](./Assignment%2052/assignment52.c)
+
+### Assignment no 53:
+5️⃣3️⃣ Square Function  
+📄 [View Code](./Assignment%2053/assignment53.c)
+
+### Assignment no 54:
+5️⃣4️⃣ Print Current Date Using Function 
+📄 [View Code](./Assignment%2054/assignment54.c)
+
+### Assignment no 55:
+5️⃣5️⃣ Maximum of Two Floats Using Function 
+📄 [View Code](./Assignment%2055/assignment55.c)
+
+### Assignment no 56:
+5️⃣6️⃣ Call by Value Demonstration (Increment) 
+📄 [View Code](./Assignment%2056/assignment56.c)
+
+### Assignment no 57:
+5️⃣7️⃣ Average of numbers using Function
+📄 [View Code](./Assignment%2057/assignment57.c)
+
+### Assignment no 58:
+5️⃣8️⃣ Fibonacci Series using Recursion
+📄 [View Code](./Assignment%2057/assignment57.c)
+
+### Assignment no 59:
+5️⃣9️⃣ Palindrome Checker using Recursion
+📄 [View Code](./Assignment%2059/assignment59.c)

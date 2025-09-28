@@ -21,7 +21,7 @@ int main()
     {
         fact = fact * i;
 
-        if (n % 2 == 0)
+        if (i % 2 == 0)
         {
             res = res - (x / fact);
         }
