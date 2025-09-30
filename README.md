@@ -262,5 +262,5 @@ Collection of C assignment programs covering various problems for practice and r
 📄 [View Code](./Assignment%2064/assignment64.c)
 
 ### Assignment no 65:
-5️⃣9️⃣ Factorial of 20 using long long
+6️⃣5️⃣ Factorial of 20 using long long
 📄 [View Code](./Assignment%2065/assignment65.c)
