@@ -240,3 +240,27 @@ Collection of C assignment programs covering various problems for practice and r
 ### Assignment no 59:
 5️⃣9️⃣ Palindrome Checker using Recursion
 📄 [View Code](./Assignment%2059/assignment59.c)
+
+### Assignment no 60:
+6️⃣0️⃣ Integer Pointer Demonstration
+📄 [View Code](./Assignment%2060/assignment60.c)
+
+### Assignment no 61:
+6️⃣1️⃣ Change Value Using Pointer
+📄 [View Code](./Assignment%2061/assignment61.c)
+
+### Assignment no 62:
+6️⃣2️⃣ Character Pointer Demonstration
+📄 [View Code](./Assignment%2062/assignment62.c)
+
+### Assignment no 63:
+6️⃣3️⃣ Min and Max Using Call by Reference
+📄 [View Code](./Assignment%2063/assignment63.c)
+
+### Assignment no 64:
+6️⃣4️⃣ Kilometers to Miles Converter
+📄 [View Code](./Assignment%2064/assignment64.c)
+
+### Assignment no 65:
+5️⃣9️⃣ Factorial of 20 using long long
+📄 [View Code](./Assignment%2065/assignment65.c)
