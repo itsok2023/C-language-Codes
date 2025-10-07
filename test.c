@@ -1,25 +1,45 @@
 #include <stdio.h>
 
-void StringCopy (char *ptr1, char *ptr2);
+//Function Declaration
+int PrimeNumber(int);
 
-int main() {
-    char str1 [100];
-    char str2 [100];
-    printf("Enter a string : ");
-    scanf("%s",str1);
-    
-    StringCopy (str1, str2);
-    printf("Copy string of %s is %s", str1, str2);
+
+int main()
+{
+    int num;
+    int flag;
+
+    printf("Enter a number to check Prime number or NOT : \n");
+    scanf("%d", &num);
+
+    // Function Calling
+    flag = PrimeNumber (num);
+
+    if (flag == 0)  
+    {
+        printf("Prime Number");
+    }
+    else{
+        printf("NOT PRIME NUMBER");
+    }
+
     return 0;
 }
 
-void StringCopy (char *ptr1, char *ptr2)
+// Function Defination
+int PrimeNumber(int num)
 {
-    int i;
-    for (i=0; ptr1[i] != '\0'; i++)
-    {
-        ptr2[i] = ptr1[i];
-    }
+    int flag = 0;
 
-    ptr2[i] = '\0';
+    for (int i = 2; i <= (num / 2); i++)
+    {
+        if (num%i == 0)
+        {
+            flag++;
+        }
+        
+    }
+    
+    return flag;
+
 }

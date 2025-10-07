@@ -264,3 +264,15 @@ Collection of C assignment programs covering various problems for practice and r
 ### Assignment no 65:
 6️⃣5️⃣ Factorial of 20 using long long
 📄 [View Code](./Assignment%2065/assignment65.c)
+
+### Assignment no 66:
+6️⃣6️⃣ Sum and Average of Array Elements
+📄 [View Code](./Assignment%2066/assignment66.c)
+
+### Assignment no 67:
+6️⃣7️⃣ Number of Occurrences in an Array
+📄 [View Code](./Assignment%2067/assignment67.c)
+
+### Assignment no 68:
+6️⃣8️⃣ Maximum and Minimum in Array
+📄 [View Code](./Assignment%2068/assignment68.c)
